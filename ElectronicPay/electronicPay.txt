@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Motorola Edge 60 Pro",
+        "storage": "512GB",
+        "ram": "12GB",
+        "processor": "3.35Ghz",
+        "price": 1500000
+    },
+    {
+        "name": "Motorola Edge 70",
+        "storage": "256GB",
+        "ram": "12GB",
+        "processor": "2.8Ghz",
+        "price": 1500000
+    },
+    {
+        "name": "Motorola Edge 60",
+        "storage": "512GB",
+        "ram": "12GB",
+        "processor": "2.5Ghz",
+        "price": 1300000
+    }
+]
